@@ -4,24 +4,27 @@ A modern and responsive Chrome Extension for productivity tracking. It tracks ti
 
 ---
 
-**Company:** CODTECH IT SOLUTIONS
-**Name:** Neha Shukla
-**Intern ID:** CT06DF671
-**Domain:** MERN Stack Web Development
-**Duration:** 6 Weeks
-**Mentor:** Neela Santosh Kumar
+**Company:** CODTECH IT SOLUTIONS  
+**Name:** Neha Shukla  
+**Intern ID:** CT06DF671  
+**Domain:** MERN Stack Web Development  
+**Duration:** 6 Weeks  
+**Mentor:** Neela Santosh Kumar  
 
 ---
 
-## 📌 Project Instructions
+# 🚀 Build a Chrome Extension for Productivity Management
 
-> **BUILD A CHROME EXTENSION FOR PRODUCTIVITY MANAGEMENT**
-> DEVELOP A CHROME EXTENSION THAT ACTS AS A PRODUCTIVITY TRACKER. THE EXTENSION WILL:
->
-> ✅ MONITOR TIME SPENT ON DIFFERENT WEBSITES
-> ✅ BLOCK DISTRACTING SITES *(optional, can be removed)*
-> ✅ PROVIDE DAILY PRODUCTIVITY REPORTS
-> ✅ USE MERN STACK FOR BACKEND FUNCTIONALITIES LIKE STORING USER PREFERENCES, GENERATING REPORTS, AND SYNCING DATA ACROSS DEVICES.
+**Develop a Chrome Extension that acts as a Productivity Tracker. The extension will:**
+
+✅ Monitor time spent on different websites  
+✅ Block distracting sites *(optional, can be removed)*  
+✅ Provide daily productivity reports  
+✅ Use MERN Stack for backend functionalities like:  
+  • Storing user preferences  
+  • Generating reports  
+  • Syncing data across devices  
+
 
 ---
 
@@ -114,8 +117,6 @@ npm start
 * **Name:** Neha Shukla
 * **Project:** Advanced Productivity Tracker Chrome Extension
 * **GitHub:** [@NehaShukla5237](https://github.com/NehaShukla5237)
-
----
 
 ---
 
